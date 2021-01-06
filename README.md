@@ -30,7 +30,7 @@ landing page, redirect users to other navigation links
 ## Demo Project
 
 
-![Mobile](https://user-images.githubusercontent.com/56804642/103822297-9e64a800-504e-11eb-8c0d-4203c8f5bb0f.mp4)
+https://user-images.githubusercontent.com/56804642/103822297-9e64a800-504e-11eb-8c0d-4203c8f5bb0f.mp4
 
 > [Deploy GitHub Pages](https://henrique1818.github.io/links-instagram/)
 
